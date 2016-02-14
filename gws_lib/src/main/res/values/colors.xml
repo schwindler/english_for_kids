@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_color">#2d5da8</color>
+    <color name="app_color_navigation">#ff264589</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pasive">#707070</color>
+    <color name="text_color">#ed212121</color>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bkg_start"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:text="Setting" />
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="160dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:background="@drawable/start_selector"
+        android:clickable="true" />
+</FrameLayout>

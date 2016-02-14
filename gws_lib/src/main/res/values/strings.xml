@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GWS Lib</string>
+
+    <string name="drawer_open">Открыть</string>
+    <string name="drawer_close">Закрыть</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="back">Назад</string>
+    <string name="menu">Меню</string>
+    <string name="search">Поиск</string>
+    <string name="filter">Фильтр</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="remove">Удалить</string>
+    <string name="clear">Очистить</string>
+    <string name="save">Сохранить</string>
+    <string name="open">Открыть</string>
+    <string name="error">Ошибка</string>
+    <string name="setting">Настройка</string>
+    <string name="skip">Пропустить</string>
+    <string name="repeat">Повторить</string>
+    <string name="warning">Предупреждение</string>
+
+    <string name="loading">Загрузка…</string>
+    <string name="network_is_unreachable">Нет подключение к интернету</string>
+    <string name="unable_to_connect_to_server">Невозможно подключиться к серверу</string>
+    <string name="please_wait">Пожалуйста подождите</string>
+    <string name="error_in_system">Произошла ошибка в системе повторите попытку еще раз</string>
+    <string name="not_selected">Не выбрано</string>
+
+    <string name="canot_connected_to_location">Подключение не удалось: %1$s</string>
+    <string name="connecting_success">подключен с Google Play services</string>
+    <string name="connecting_suspended">Подключение приостановлено</string>
+    <string name="canot_create_location_dialog">Настройки местоположения, являются неадекватными, и не может быть установлена здесь. Диалог не создается.</string>
+    <string name="canot_execute_request">Невозможно выполнить запрос</string>
+
+</resources>

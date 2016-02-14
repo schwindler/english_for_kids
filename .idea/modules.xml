@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/english_for_kids.iml" filepath="$PROJECT_DIR$/english_for_kids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gws_lib/gws_lib.iml" filepath="$PROJECT_DIR$/gws_lib/gws_lib.iml" />
     </modules>
   </component>
 </project>
